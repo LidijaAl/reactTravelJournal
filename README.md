@@ -28,7 +28,7 @@ This is a travel journal made with React JS.
 
 ### Links
 
-- Live Site URL: [lidijaaltraveljournal.netlify.app](lidijaaltraveljournal.netlify.app)
+- Live Site URL: [lidijaaltraveljournal.netlify.app](https://lidijaaltraveljournal.netlify.app/)
 
 
 ## My process
